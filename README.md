@@ -1,4 +1,3 @@
-day3
-====
-
-Day 3 material for the AstroData Hack Week
+AstroHackWeek Day 3
+===================
+This content has moved to https://github.com/AstroHackWeek/AstroHackWeek2014/
